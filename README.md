@@ -1,0 +1,2 @@
+# BigScreemForSomethings
+针对于某一件事请的大屏系统模板
